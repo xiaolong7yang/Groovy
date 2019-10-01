@@ -1,4 +1,4 @@
-package Annotation
+package annotation
 
 @Simple
 class User {
