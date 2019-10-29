@@ -48,9 +48,6 @@ class JvmMont {
                 mpoolName -> println " mpool name = $mpoolName"
             }
         }
-
-
-
     }
 
 }
